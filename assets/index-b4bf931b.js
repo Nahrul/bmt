@@ -346,7 +346,7 @@ RN. ${n.rnOfc}    TN. ${n.tnOfc}   SN.${n.snOfc}  NG ${n.ngOfc}
  - CR1 : Temp/Bar - ${n.scr1}°C
  - CR2 : Temp/Bar - ${n.scr2}°C
  - CR3 : Temp/Bar - ${n.scr3}°C
- - CR4 : Temp/Bar - ${n.scr4}°C
+ - CR Kontainer : Temp/Bar - ${n.scr4}°C
 • Pompa Hydrant : ${t.pompaJockey}
 • Fire Alarm Detector : Aktif
 ${t.areaCctv}
